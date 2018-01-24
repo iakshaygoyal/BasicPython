@@ -1,0 +1,12 @@
+# your code goes here
+x=input()
+n=len(x)
+i=0;
+cnt=0
+while i<n-2:
+	s=x[i:i+3]
+	if(s=='bob'):
+		cnt=cnt+1;
+	i=i+1	
+
+print cnt		
