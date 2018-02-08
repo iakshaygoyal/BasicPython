@@ -35,4 +35,4 @@ while i<n:
     if j==n:
         break
 
-print(s[max_idx : max_idx + max])
+print('Longest substring in alphabetical order is:', s[max_idx : max_idx + max])
