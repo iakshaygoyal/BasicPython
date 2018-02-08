@@ -7,4 +7,4 @@ while i<n-2:
         cnt+=1
     i+=1
 
-print(cnt)
+print('Number of times bob occurs is:',cnt)
