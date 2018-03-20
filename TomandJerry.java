@@ -1,4 +1,4 @@
-public static int findMinimumPath(int[][] arr,int x,int y){
+public static int minMoves(int[][] arr,int x,int y){
 			int startX=0;
 			int startY=0;
 
