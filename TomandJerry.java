@@ -108,3 +108,4 @@ class QueueNode{
 		this.point = point;
 		this.distance=distance;
 	}
+}
